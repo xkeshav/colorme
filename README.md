@@ -12,9 +12,9 @@ This will clear my concepts on
  - How to use variables through `code:` argument not just single line of execution
 
  ###References
-  - [Google Chrome Messaging API][https://developer.chrome.com/extensions/messaging]
-  - Very  helping [ stackoveflow chat][http://chat.stackoverflow.com/rooms/64455/discussion-between-diecho-and-xan]
-  - [Google Groups discussion][https://groups.google.com/a/chromium.org/forum/#!topic/chromium-extensions/Q6nyd7fPIXk]
+  - [Google Chrome Messaging API] (https://developer.chrome.com/extensions/messaging)
+  - Support of very helping guy xan [ stackoveflow chat](http://chat.stackoverflow.com/rooms/64455/discussion-between-diecho-and-xan)
+  - [Google Groups discussion](https://groups.google.com/a/chromium.org/forum/#!topic/chromium-extensions/Q6nyd7fPIXk)
 
-  - useful tool **collabedit** which [http://collabedit.com/8d47f]
+  - useful tool [**collabedit**](http://collabedit.com/8d47f)
 
